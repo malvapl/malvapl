@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there, I'm Malva 👋
 
-<!--
-**malvapl/malvapl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Passionate about web development
 
-Here are some ideas to get you started:
+Currently working with 💼
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="60" height="50" alt="image" src="https://github.com/user-attachments/assets/5f593437-344e-4f12-b516-15facf69ecb0" />  <img src="https://skillicons.dev/icons?i=php,js,ts,angular,mysql" />
+
+Learning 🌱
+
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,laravel,ai" />
+
+My everyday tools 🛠️
+
+<img src="https://skillicons.dev/icons?i=git,notion,visualstudio" />  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/11fc7097-bc56-44cc-9247-e7fda241ab5f" />
+
+Front-end skills 🖌️
+
+<img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap" />
+
+📫 You can contact me at [malvaplez@gmail.com](mailto:malvaplez@gmail.com)
+
+🌐 I'm based in Oviedo, Spain
